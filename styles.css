@@ -12,7 +12,7 @@
 }
 body {
     color: #ffffff;
-   
+    background: url(./images/bg.jpg);
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 90%;
     margin: 0px;
