@@ -1,5 +1,3 @@
-
-/*@import url ("960_12_col.css");*/
 @font-face {
     font-family: 'QuicksandBook';
     src: url('fonts/Quicksand_Book-webfont.eot');
@@ -12,7 +10,7 @@
 }
 body {
     color: #ffffff;
-    background: #413f3b url("images\bg.jpg");
+    background: #413f3b url("images/bg.jpg");
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 90%;
     margin: 0px;
@@ -27,7 +25,7 @@ a:hover {
     color: #ffffff;
 }
 .header {
-    background-image: url("../images/bg-header.jpg");
+    background-image: url('images/bg-header.jpg');
     padding 0px 0px 0px 0px;
     height: 100px;
     position: fixed;
@@ -70,7 +68,7 @@ h1, h2 {
     line-height: 1.4em;
 }
 main-story {
-    background-image: url('images/triangles.png');
+    background-image: url('images/bg-triangle.png');
     background-repeat: no-repeat;
     background-position: 122px 142px;
     height: 570px;
